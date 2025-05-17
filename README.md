@@ -16,8 +16,6 @@ Athletes track physical performance constantly — but mindset gets overlooked. 
 - Tags for workouts, competitions, and rest days
 - Reflections for growth and self-awareness
 
-This project is my product-focused portfolio piece as an aspiring **Product Manager** with a background in innovation and business strategy.
-
 ---
 
 ## 🛠 MVP Features

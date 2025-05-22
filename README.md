@@ -66,7 +66,7 @@ Mindset Metrics is built **by athletes, for athletes** — with a focus on usabi
 ---
 
 Created by **Riley Rivera**, an Interdisciplinary Business Major at TCNJ  
-Contact: [your-email@example.com]  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+Contact: [riley21river@gmail.com]  
+GitHub: [https://github.com/spoonligma]
 
 

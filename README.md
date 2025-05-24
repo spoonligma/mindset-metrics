@@ -1,5 +1,7 @@
 # Mindset Metrics
 
+[![Firebase Hosting Deploy](https://github.com/spoonligma/mindset-metrics/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/spoonligma/mindset-metrics/actions)
+
 Mindset Metrics is a lightweight mental performance tracker for athletes. It helps student-athletes measure their focus, motivation, and emotional state — enabling better self-awareness and performance routines.
 
 > “You can’t improve what you don’t track.”  
